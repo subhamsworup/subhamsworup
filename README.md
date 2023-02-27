@@ -6,7 +6,7 @@ I'm Subham Sworup Mallick.
 ### ⚡️ A quick introduction
 
 - 🎓 IT undergrad 
-- 🌱 I’m currently learning Java ,DBMS. 
+- 🌱 I’m currently learning Java ,DBMS and HTML. 
 - 🤟🏻 I'm a shutterbug and melophile 
 
 ---
