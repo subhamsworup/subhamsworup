@@ -38,5 +38,5 @@ I'm Subham Sworup Mallick.
 
 ### 📈 GitHub Stats 
 
-[![Subham's github stats](https://github-readme-stats.vercel.app/api?username=subhamsworup&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamsworup&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Subham's github stats](src="https://github-readme-stats.vercel.app/api?username=SySagar&show_icons=true&theme=tokyonight"](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](src="https://github-readme-streak-stats.herokuapp.com/?user=SySagar&theme=tokyonight" ](https://github.com/anuraghazra/github-readme-stats)
