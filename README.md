@@ -27,7 +27,7 @@ I'm Subham Sworup Mallick.
 <img style="padding:5px;" align="center" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"> 
   <img style="padding:5px;" align="center" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
     <img style="padding:5px;" align="center" alt="Firebase" width="35px" 
-      src=img src="https://img.icons8.com/color/48/000000/firebase.png"> 
+      src="https://img.icons8.com/color/48/000000/firebase.png"> 
   <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
   <img style="padding:5px;" align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
